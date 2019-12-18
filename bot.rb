@@ -19,7 +19,7 @@ module RubyBuild
                 title 'release major'
             end
             command 'release minor' do
-                title 'release minor'
+                title 'release minor 1'
             end
             command 'release bugfix' do
                 title 'release bugfix'
